@@ -1,6 +1,6 @@
 # KasKu JSP
 
-Aplikasi pengelolaan keuangan pribadi untuk tugas akhir Pemrograman Web.
+Aplikasi pengelolaan keuangan pribadi untuk Quiz 2 Pemrograman Web.
 
 **Pengerjaan kelompok (2 anggota).**
 
